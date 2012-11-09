@@ -1,0 +1,139 @@
+﻿<error errorId="3370c833-fa5e-49b5-a54c-fb337919d4b0" application="/RemoteNuGetServer" host="MIKEKINLOCH" type="System.Web.HttpException" message="File does not exist." source="System.Web" detail="System.Web.HttpException (0x80004005): File does not exist.&#xD;&#xA;   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)&#xD;&#xA;   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)&#xD;&#xA;   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)&#xD;&#xA;   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()&#xD;&#xA;   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean&amp; completedSynchronously)" user="MikeKinloch\Mike Kinloch" time="2012-11-09T21:39:59.3612731Z" statusCode="404">
+  <serverVariables>
+    <item name="ALL_HTTP">
+      <value string="HTTP_HOST:localhost:1246&#xD;&#xA;HTTP_USER_AGENT:NuGet/2.1.31002.9028 (Microsoft Windows NT 6.1.7601 Service Pack 1)&#xD;&#xA;" />
+    </item>
+    <item name="ALL_RAW">
+      <value string="Host: localhost:1246&#xD;&#xA;User-Agent: NuGet/2.1.31002.9028 (Microsoft Windows NT 6.1.7601 Service Pack 1)&#xD;&#xA;" />
+    </item>
+    <item name="APPL_MD_PATH">
+      <value string="" />
+    </item>
+    <item name="APPL_PHYSICAL_PATH">
+      <value string="C:\Users\Mike Kinloch\Documents\Visual Studio 2010\WebSites\RemoteNuGetServer\" />
+    </item>
+    <item name="AUTH_TYPE">
+      <value string="NTLM" />
+    </item>
+    <item name="AUTH_USER">
+      <value string="MikeKinloch\Mike Kinloch" />
+    </item>
+    <item name="AUTH_PASSWORD">
+      <value string="*****" />
+    </item>
+    <item name="LOGON_USER">
+      <value string="MikeKinloch\Mike Kinloch" />
+    </item>
+    <item name="REMOTE_USER">
+      <value string="MikeKinloch\Mike Kinloch" />
+    </item>
+    <item name="CERT_COOKIE">
+      <value string="" />
+    </item>
+    <item name="CERT_FLAGS">
+      <value string="" />
+    </item>
+    <item name="CERT_ISSUER">
+      <value string="" />
+    </item>
+    <item name="CERT_KEYSIZE">
+      <value string="" />
+    </item>
+    <item name="CERT_SECRETKEYSIZE">
+      <value string="" />
+    </item>
+    <item name="CERT_SERIALNUMBER">
+      <value string="" />
+    </item>
+    <item name="CERT_SERVER_ISSUER">
+      <value string="" />
+    </item>
+    <item name="CERT_SERVER_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="CERT_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="CONTENT_LENGTH">
+      <value string="0" />
+    </item>
+    <item name="CONTENT_TYPE">
+      <value string="" />
+    </item>
+    <item name="GATEWAY_INTERFACE">
+      <value string="" />
+    </item>
+    <item name="HTTPS">
+      <value string="" />
+    </item>
+    <item name="HTTPS_KEYSIZE">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SECRETKEYSIZE">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SERVER_ISSUER">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SERVER_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="INSTANCE_ID">
+      <value string="" />
+    </item>
+    <item name="INSTANCE_META_PATH">
+      <value string="" />
+    </item>
+    <item name="LOCAL_ADDR">
+      <value string="::1" />
+    </item>
+    <item name="PATH_INFO">
+      <value string="/RemoteNuGetServer/nuget" />
+    </item>
+    <item name="PATH_TRANSLATED">
+      <value string="C:\Users\Mike Kinloch\Documents\Visual Studio 2010\WebSites\RemoteNuGetServer\nuget" />
+    </item>
+    <item name="QUERY_STRING">
+      <value string="" />
+    </item>
+    <item name="REMOTE_ADDR">
+      <value string="::1" />
+    </item>
+    <item name="REMOTE_HOST">
+      <value string="::1" />
+    </item>
+    <item name="REMOTE_PORT">
+      <value string="" />
+    </item>
+    <item name="REQUEST_METHOD">
+      <value string="GET" />
+    </item>
+    <item name="SCRIPT_NAME">
+      <value string="/RemoteNuGetServer/nuget" />
+    </item>
+    <item name="SERVER_NAME">
+      <value string="localhost" />
+    </item>
+    <item name="SERVER_PORT">
+      <value string="1246" />
+    </item>
+    <item name="SERVER_PORT_SECURE">
+      <value string="0" />
+    </item>
+    <item name="SERVER_PROTOCOL">
+      <value string="HTTP/1.0" />
+    </item>
+    <item name="SERVER_SOFTWARE">
+      <value string="" />
+    </item>
+    <item name="URL">
+      <value string="/RemoteNuGetServer/nuget" />
+    </item>
+    <item name="HTTP_HOST">
+      <value string="localhost:1246" />
+    </item>
+    <item name="HTTP_USER_AGENT">
+      <value string="NuGet/2.1.31002.9028 (Microsoft Windows NT 6.1.7601 Service Pack 1)" />
+    </item>
+  </serverVariables>
+</error>
