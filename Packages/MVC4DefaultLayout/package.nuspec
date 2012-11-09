@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>MVC4DefaultLayout</id>
+    <version>0.4</version>
+    <authors>Mike Kinloch</authors>
+    <owners>Mike Kinloch</owners>
+    <iconUrl>http://www.hanselman.com/images/nugeticon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An easy way to swet up a default project structure for an MVC4 web pplication</description>
+    <tags>MVC MVC4 ASP.NET WebForms</tags>
+  </metadata>
+</package>
